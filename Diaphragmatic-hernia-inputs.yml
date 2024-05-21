@@ -1,0 +1,45 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/thoracic-diaphragmatic-hernia---primary.py
+inputModule3:
+  class: File
+  path: python/diaphragmatic-hernia-hiatus---primary.py
+inputModule4:
+  class: File
+  path: python/diaphragmatic-hernia-gangrene---primary.py
+inputModule5:
+  class: File
+  path: python/diaphragmatic-hernia-obstruction---primary.py
+inputModule6:
+  class: File
+  path: python/abdominal-diaphragmatic-hernia---primary.py
+inputModule7:
+  class: File
+  path: python/hernia---primary.py
+inputModule8:
+  class: File
+  path: python/simple-diaphragmatic-hernia---primary.py
+inputModule9:
+  class: File
+  path: python/oesophageal-diaphragmatic-hernia---primary.py
+inputModule10:
+  class: File
+  path: python/irreducible-diaphragmatic-hernia---primary.py
+inputModule11:
+  class: File
+  path: python/diaphragmatic-hernia-specified---primary.py
+inputModule12:
+  class: File
+  path: python/diaphragmatic-hernia---primary.py
+inputModule13:
+  class: File
+  path: python/diaphragmatic-hernia-repair---primary.py
+inputModule14:
+  class: File
+  path: python/diaphragmatic-hernia-procedure---primary.py
+inputModule15:
+  class: File
+  path: python/output-cases.py
